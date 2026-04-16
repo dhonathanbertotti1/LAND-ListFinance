@@ -1,5 +1,6 @@
 {
-  "name": "List Finance - Sistema Financeiro Inteligente",
+  "name": "List Finance LPG",
   "description": "O sistema financeiro que simplifica sua vida. Controle seus gastos, crie metas e alcance sua liberdade financeira com o List Finance.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
